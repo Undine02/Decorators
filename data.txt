@@ -1,0 +1,36 @@
+Oct 30 2022 21:11:04 | recurse | ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) | <generator object recurse at 0x7ff618e0e500>
+Oct 30 2022 21:11:04 | recurse | (['a', 'b', 'c'],) | <generator object recurse at 0x7ff618e0e570>
+Oct 30 2022 21:11:04 | recurse | (['d', 'e', 'f', 'h', False],) | <generator object recurse at 0x7ff618e0e570>
+Oct 30 2022 21:11:04 | recurse | ([1, 2, None],) | <generator object recurse at 0x7ff618e0e570>
+Oct 30 2022 21:11:20 | recurse | ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) | <generator object recurse at 0x7ff45b9ddd90>
+Oct 30 2022 21:11:20 | recurse | (['a', 'b', 'c'],) | <generator object recurse at 0x7ff45b9dde00>
+Oct 30 2022 21:11:20 | recurse | (['d', 'e', 'f', 'h', False],) | <generator object recurse at 0x7ff45b9dde00>
+Oct 30 2022 21:11:20 | recurse | ([1, 2, None],) | <generator object recurse at 0x7ff45b9dde00>
+Oct 30 2022 21:12:32 | recurse | ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) | <generator object recurse at 0x7f24610c9d90>
+Oct 30 2022 21:12:32 | recurse | (['a', 'b', 'c'],) | <generator object recurse at 0x7f24610c9e00>
+Oct 30 2022 21:12:32 | recurse | (['d', 'e', 'f', 'h', False],) | <generator object recurse at 0x7f24610c9e00>
+Oct 30 2022 21:12:32 | recurse | ([1, 2, None],) | <generator object recurse at 0x7f24610c9e00>
+Oct 30 2022 21:17:30 | recurse | ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) | <generator object recurse at 0x7f0225871d90>
+Oct 30 2022 21:17:30 | recurse | (['a', 'b', 'c'],) | <generator object recurse at 0x7f0225871e00>
+Oct 30 2022 21:17:30 | recurse | (['d', 'e', 'f', 'h', False],) | <generator object recurse at 0x7f0225871e00>
+Oct 30 2022 21:17:30 | recurse | ([1, 2, None],) | <generator object recurse at 0x7f0225871e00>
+Oct 30 2022 21:17:36 | recurse | ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) | <generator object recurse at 0x7f06021b5d90>
+Oct 30 2022 21:17:36 | recurse | (['a', 'b', 'c'],) | <generator object recurse at 0x7f06021b5e00>
+Oct 30 2022 21:17:36 | recurse | (['d', 'e', 'f', 'h', False],) | <generator object recurse at 0x7f06021b5e00>
+Oct 30 2022 21:17:36 | recurse | ([1, 2, None],) | <generator object recurse at 0x7f06021b5e00>
+Oct 30 2022 21:18:17 | recurse | ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) | <generator object recurse at 0x7fac06285d90>
+Oct 30 2022 21:18:17 | recurse | (['a', 'b', 'c'],) | <generator object recurse at 0x7fac06285e00>
+Oct 30 2022 21:18:17 | recurse | (['d', 'e', 'f', 'h', False],) | <generator object recurse at 0x7fac06285e00>
+Oct 30 2022 21:18:17 | recurse | ([1, 2, None],) | <generator object recurse at 0x7fac06285e00>
+Oct 30 2022 21:18:58 | recurse | ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) | <generator object recurse at 0x7fa817aa1d90>
+Oct 30 2022 21:18:58 | recurse | (['a', 'b', 'c'],) | <generator object recurse at 0x7fa817aa1e00>
+Oct 30 2022 21:18:58 | recurse | (['d', 'e', 'f', 'h', False],) | <generator object recurse at 0x7fa817aa1e00>
+Oct 30 2022 21:18:58 | recurse | ([1, 2, None],) | <generator object recurse at 0x7fa817aa1e00>
+Oct 30 2022 21:19:24 | recurse | ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) | <generator object recurse at 0x7f4fb76b9d90>
+Oct 30 2022 21:19:24 | recurse | (['a', 'b', 'c'],) | <generator object recurse at 0x7f4fb76b9e00>
+Oct 30 2022 21:19:24 | recurse | (['d', 'e', 'f', 'h', False],) | <generator object recurse at 0x7f4fb76b9e00>
+Oct 30 2022 21:19:24 | recurse | ([1, 2, None],) | <generator object recurse at 0x7f4fb76b9e00>
+Oct 30 2022 21:19:32 | recurse | ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) | <generator object recurse at 0x7f03f611dd90>
+Oct 30 2022 21:19:32 | recurse | (['a', 'b', 'c'],) | <generator object recurse at 0x7f03f611de00>
+Oct 30 2022 21:19:32 | recurse | (['d', 'e', 'f', 'h', False],) | <generator object recurse at 0x7f03f611de00>
+Oct 30 2022 21:19:32 | recurse | ([1, 2, None],) | <generator object recurse at 0x7f03f611de00>
